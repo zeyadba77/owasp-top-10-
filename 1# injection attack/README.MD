@@ -1,7 +1,7 @@
 # owasp top 10
 ![](OWASP-Top-10-Vulnerabilities-And-Preventions.png)
 # Introduction:
-## owasp is abbreviation of open web application security project it's an organization with the goal to help owners and companies of cyber crimes and cyber attacks.
+## owasp is abbreviation of open web application security project it's an organization with the goal to help owners and companies of cyber crimes and cyber attacks and apply security solutions to several web appliactions. 
 ## The owasp top 10 is a standard present the top 10 web application risks for developers to protect their web application against comman attacks used by hackers.
 # injection Flaws :
 ![](1_8ZyEfgxO0cZ_yLZvQvmCiQ.jpeg)
